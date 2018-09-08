@@ -1,4 +1,4 @@
-##Estrutura modelo para automatizar no build do projeto.
+##Estrutura modelo para automatizar do build do projeto.
 
 >Build do proejto em tempo real - modo developer
 >
