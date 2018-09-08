@@ -1,9 +1,11 @@
-##Build do proejto em tempo real - modo developer
+##Estrutura modelo para automatizar no build do projeto.
 
-npm run dev
+>Build do proejto em tempo real - modo developer
+>
+>npm run dev
 
 
-##Gerar o pacote para produção
-
-npm run build
+>Gerar o pacote para produção
+>
+>npm run build
 
